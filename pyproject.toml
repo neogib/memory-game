@@ -9,7 +9,7 @@ description = "A terminal-based memory game"
 readme = "README.md"
 requires-python = ">=3.8"
 dependencies = [
-    "cryptography~=43.0.3",
+    "cryptography~=46.0.5",
     "pyfiglet~=1.0.2",
     "rich~=13.9.3",
     "rich_pixels==3.0.1",
